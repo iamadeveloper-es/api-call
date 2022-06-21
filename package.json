@@ -1,5 +1,5 @@
 {
-  "name": "api-call-package",
+  "name": "@iamadeveloper-es/api-call-package",
   "version": "1.0.0",
   "description": "package to handle api calls",
   "main": "index.js",
