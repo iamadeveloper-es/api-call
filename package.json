@@ -1,12 +1,16 @@
 {
-  "name": "api-call",
+  "name": "api-call-package",
   "version": "1.0.0",
-  "description": "",
+  "description": "package to handle api calls",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": "https://github.com/iamadeveloper-es/api-call-package",
   "keywords": [],
-  "author": "",
+  "author": "iamadeveloper-es",
   "license": "ISC"
 }
